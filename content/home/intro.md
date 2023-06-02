@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+🐈 Hey! I'm **Hui Ting**, I run Brave Psychology, a space for therapy online and psycho-education workshops in person, since 2022. 
 
-Check out my [CV](/about/) and blog posts below 🌈
+Check out our past events and therapy schedule/rates below :) 🌈
