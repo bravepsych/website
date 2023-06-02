@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Hui Ting Wang 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: Lead Therapist
 
 # Status emoji
 status:
@@ -14,28 +14,26 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: 腾讯
+  - name:  Brave Psychology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include couples' therapy, romantic relationship and attachment issues as well as work stressors. 
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Developmental Psychology
+#- Counseling Psychology
+#- Social Science Data Analytics
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: Post-graduate Diploma in Counseling Psychology
+#    institution: College of Allied Educators (SG)
+#    year: 2022
+#  - course: Bechalors of Social Sciences (hons) Psychology
+#    institution: National University of Singapore 
+#    year: 2018
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
