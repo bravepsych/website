@@ -1,5 +1,5 @@
 ---
-title: An example title
+title: Rates
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
@@ -13,3 +13,9 @@ header:
   caption: ""
   image: ""
 ---
+
+| Rates    |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
