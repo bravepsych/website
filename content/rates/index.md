@@ -14,8 +14,9 @@ header:
   image: ""
 ---
 
-| Rates    |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+Individual therapy sessions
+Duration: 60 minutes 
+Fees: 
+$150 per session (1 session)
+$100 per session (6 sessions)
+$90 per session (12 sessions)
