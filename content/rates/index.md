@@ -16,7 +16,7 @@ header:
 
 Individual therapy sessions
 
-Duration: 50 - 60 minutes 
+Duration: 60 minutes
 Rates: 
 $100 (online) 
 $150 (in-person)
