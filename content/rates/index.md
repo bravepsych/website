@@ -1,5 +1,5 @@
----
-title: Rates
+--- Services
+title: 
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
@@ -14,8 +14,10 @@ header:
   image: ""
 ---
 
-| Rates    |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+Individual therapy sessions
+
+Duration: 50 - 60 minutes 
+Rates: 
+$100 (online) 
+$150 (in-person)
+
