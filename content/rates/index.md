@@ -14,8 +14,12 @@ header:
   image: ""
 ---
 
-| Rates    |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+<b> Individual therapy (60 minutes, online) </br> </b>
+
+Fees: </br>
+$150 per session (1 session) </br>
+$120 per session (6 sessions) </br>
+$100 per session (12 sessions) </br> 
+
+Subsidized sessions @ $40 - 50/h is available to students and non-working adults for online sessions during office hours. </br>
+

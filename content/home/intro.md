@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Hui Ting**, I run Brave Psychology, a space for therapy online and psycho-education workshops in person, since 2022. 
+🐈 Hey! I'm **Hui Ting**, I run Brave Psychology, a space for therapy and psychoo-educational workshops, online and in-person. 
 
-Check out our past events and therapy schedule/rates below :) 🌈
+Check out our past events and workshops below :) 🌈
