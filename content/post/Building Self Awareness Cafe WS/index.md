@@ -1,12 +1,12 @@
 ---
 title: Our first in-person Workshop! 
+subtitle: It is an exciting event as it's our first in-person workshop. I decided to invite some of my therapy clients and my  education ex-colleagues who are interested in Psychology for a get-together. 
 date: 2023-05-28
-math: true
-image:
-  placement: 2
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 tags:
-  - Acceptance and commitment therapy, workshop
+  - Acceptance and commitment therapy
+  - Workshop
+authors:
+  - admin
 ---
 
 
