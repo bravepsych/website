@@ -15,4 +15,6 @@ subtitle:
 
 ---
 
-hello i removed it 
+Curious Questions 
+Q: What is therapy?
+**A: Therapy is life** 
