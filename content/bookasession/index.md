@@ -1,7 +1,7 @@
 ---
 title: Session Information
-summary: Here we describe how to add a page to your site.
-date: "2018-06-28T00:00:00Z"
+summary: You can find booking information
+
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
