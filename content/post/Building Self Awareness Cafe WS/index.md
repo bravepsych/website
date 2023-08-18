@@ -5,6 +5,7 @@ date: 2023-05-28
 tags:
   - Acceptance and commitment therapy
   - Workshop
+  - Event
 authors:
   - admin
 ---

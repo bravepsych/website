@@ -6,7 +6,7 @@ authors:
   - admin
   
 tags:
-  -
+  - Event
 ---
 On July 2023, I spoke at the Career Talk for incoming freshmen at the National University of Singapore, Psychology. </br>
 

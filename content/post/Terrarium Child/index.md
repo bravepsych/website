@@ -7,6 +7,7 @@ authors:
   
 tags:
   - Workshop
+  - Event
   - Children
   - Independence
   - Creativity
