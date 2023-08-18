@@ -42,10 +42,7 @@ bio: I like to read psychology books and my research interests include couples' 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yeziyezihua@gmail.com' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: 'mailto:bravepsychologysg@gmail.com' # For a direct email link, use "mailto:test@example.org".
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen

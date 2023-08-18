@@ -18,8 +18,8 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Hui Ting**, I offer psycho-therapy services and psycho-educational workshops. 
+🐈Services: Individual and Couples' therapy, Psycho-educational workshops
 
-Check out our past events and workshops below :) 🌈
+Check out our past events below :) 🌈
 
-Check out "Book a session" for more information or [Click here](https://wa.me/6590036004) for a free consultation call. 
+Check out "Book a session" for more info or [Click here](https://wa.me/6590036004) for a free consultation call. 
