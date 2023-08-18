@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈Services: Individual and Couples' therapy, Psycho-educational workshops
+🐈 **Psycho-therapy and Psycho-educational workshops**
 
 Check out our past events below :) 🌈
 
