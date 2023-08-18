@@ -6,14 +6,8 @@ authors:
   - admin
   
 tags:
-  - 
-
-categories:
-  - 
+  -
 ---
-
-## Overview
-
 On July 2023, I spoke at the Career Talk for incoming freshmen at the National University of Singapore, Psychology. </br>
 
 Together with 3 other speakers, we did Q&A sharing with groups of students. I spoke about how I got started on my counseling studies and the challenges of maintaining my private practice (Brave Psychology). 
