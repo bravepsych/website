@@ -1,5 +1,5 @@
 ---
-title: Rates
+title: Session Information
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
@@ -13,13 +13,16 @@ header:
   caption: ""
   image: ""
 ---
+## Services 
+**Individual Therapy** is suitable for those who want a safe and confidential space to explore their problems, clarify their thoughts, get a listening ear and receive some resources to help them with the issues they are facing. Each session runs for an hour and is available both online and in-person. Discounts available for 8 and 12 sessions. Fees range from 100 to 150 per sesison. 
 
-<b> Individual therapy (60 minutes, online) </br> </b>
+**Couples Therapy** is suitable for those who want to work on their relationship by reducing conflict and improving communication. Each session runs for 1.5 hours and is available only in-person. Fees range from $150 to $165 per session. 
 
-Fees: </br>
-$150 per session (1 session) </br>
-$120 per session (6 sessions) </br>
-$100 per session (12 sessions) </br> 
+**Subsidized sessions** are available to anyone who is facing financial difficulties. Fees are on a pay-as-you-wish basis. 
 
-Subsidized sessions @ $40 - 50/h is available to students and non-working adults for online sessions during office hours. </br>
+## Booking Information
+We offer sessions on weekdays 10am - 10pm and Saturdays 10am - 4pm.
+Online sessions are conducted on Microsoft Teams. 
+In-person sessions run at Ang Mo Kio / Bishan / Orchard.
+For any rescheduling or cancellations, please give at least 48 hours of notice.  
 
