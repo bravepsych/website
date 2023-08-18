@@ -21,5 +21,4 @@ author: admin
 🐈 Hey! I'm **Hui Ting**, I offer private psycho-therapy services and psycho-educational workshops for the public/companies.
 
 Check out our past events and workshops below :) 🌈
-
 Check out "Book a session" for more information or [Click here](https://wa.me/<6590036004>) for a free consultation call. 
