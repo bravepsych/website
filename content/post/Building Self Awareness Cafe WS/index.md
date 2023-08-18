@@ -1,14 +1,28 @@
 ---
-title: Writing technical content in Markdown
+title: Our first in-person Workshop! 
 date: 2023-05-28
 math: true
 image:
   placement: 2
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+tags:
+  - Acceptance and commitment therapy, workshop
 ---
 
-<p>On 28th May, we ran our first public workshop on Building Self-awareness (introduction to ACT) for 18 pax at Pasir Panjang Knots café! 
-</br>
-<p> During the workshop, we introduced the participants to the idea of multiple selves through the Self Concept theory and introduced them to the idea and foundation of ACT. We completed a self-reflection activity on Values in Life and did a small group sharing on the 3-5 chosen values. After the activity they got to keep their Values pdf (by Russ Harris) and a bookmark made by them. 
-Participants were people interested in psychology, therapy and ex and current counselling clients.
+
+On 28th May, we ran our first public workshop on Building Self-awareness (introduction to ACT) for 18 pax at Pasir Panjang Knots café! 
+
+During the 1.5 hour workshop, we introduced the participants to the idea of multiple selves through the Self Concept theory and foundation of Acceptance and Commitment Therapy (ACT). We completed a self-reflection activity on Values in Life and did a small group sharing on the 3-5 chosen values. After the activity they got to keep their Values pdf (by Russ Harris) and a bookmark made by them.
+
+My personal values were: 
+Creativity - to think of how psychological concepts can affect our everyday lives in different ways 
+Novelty- to partake in new events/activities 
+Patience - to respond instead of reacting emotionally to emotionally-charged situations 
+
+Therapist's note: 
+When completing the reflection activity, some may find it easier to think of **goals** than **values**. For example, "I would like to organize a psychology workshop every 2-3 months" - this is a well-articulated goal, but it does not contain any values, yet. The underlying value could be Novelty, as the goal allows one to work on new content regularly. 
+
+The list of values was mostly self-explanatory and it is also suitable for teenagers to complete. 
+
+
 
