@@ -17,4 +17,4 @@ subtitle:
 
 Curious Questions 
 </br>Q: What is therapy?
-</br>**A: Therapy is life** 
+</br> *A: Therapy is life*  
