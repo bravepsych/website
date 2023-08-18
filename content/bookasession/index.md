@@ -21,8 +21,8 @@ header:
 
 
 ## Booking Information
-We offer sessions on weekdays 10am - 10pm and Saturdays 10am - 4pm.
-Online sessions are conducted on Microsoft Teams. 
-In-person sessions run at Ang Mo Kio / Bishan / Orchard.
-For any rescheduling or cancellations, please give at least 48 hours of notice.  
+Sessions: Weekdays 10am - 10pm and Saturdays 10am - 4pm.
+Online sessions: Microsoft Teams. 
+In-person sessions: Ang Mo Kio / Bishan / Orchard.
+For any rescheduling, please give at least 48 hours of notice.  
 
