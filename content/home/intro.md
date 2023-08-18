@@ -22,4 +22,4 @@ author: admin
 
 Check out our past events and workshops below :) 🌈
 
-Check out "Book a session" for more information or [Click here](https://wa.me/<6590036004>) for a free consultation call. 
+Check out "Book a session" for more information or [Click here](https://wa.me/6590036004) for a free consultation call. 
