@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include couples' therapy, romantic relationship and attachment issues as well as work stressors. 
+bio: I like to read psychology books and my research interests include couples' therapy, romantic relationship and barriers to therapy. 
 
 #interests:
 #- Developmental Psychology
