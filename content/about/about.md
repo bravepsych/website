@@ -19,4 +19,8 @@ title: Hello
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
-hi where is this 
+
+#Education: 
+National University of Singapore, Bachelors of Soc Sci w/ Hons in Psychology 
+College of Allied Educators, Post-graduate diploma in Counseling Psychology
+
