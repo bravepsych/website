@@ -9,9 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Therapy Frequently Asked Questions
-subtitle:
-
+title: 
+subtitle: Frequently Asked Questions
 
 ---
 What is talk therapy / counselling? 
