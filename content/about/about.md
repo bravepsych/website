@@ -20,7 +20,5 @@ title: About me
 author: admin
 ---
 
-Education: 
-National University of Singapore, Bachelors of Soc Sci w/ Hons in Psychology 
-College of Allied Educators, Post-graduate diploma in Counseling Psychology
+
 

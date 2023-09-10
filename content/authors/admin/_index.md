@@ -25,14 +25,14 @@ bio: I like to read psychology books and my research interests include couples' 
 #- Counseling Psychology
 #- Social Science Data Analytics
 
-#education:
-#  courses:
-#  - course: Post-graduate Diploma in Counseling Psychology
-#    institution: College of Allied Educators (SG)
-#    year: 2022
-#  - course: Bechalors of Social Sciences (hons) Psychology
-#    institution: National University of Singapore 
-#    year: 2018
+# education:
+courses:
+  - course: Post-graduate Diploma in Counseling Psychology
+    institution: College of Allied Educators (SG)
+    year: 2022
+  - course: Bechalors of Social Sciences (hons) Psychology
+    institution: National University of Singapore 
+    year: 2018
 
 
 # Social/Academic Networking
@@ -43,9 +43,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:bravepsychologysg@gmail.com' # For a direct email link, use "mailto:test@example.org".
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+  #- icon: instagram
+  #  icon_pack: fab
+  #  link: https://instagram.com/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -58,5 +58,5 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+email: "bravepsychologysg@gmail.com"
 ---
