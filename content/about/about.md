@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Hello
+title: About me
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
@@ -20,7 +20,7 @@ title: Hello
 author: admin
 ---
 
-#Education: 
+Education: 
 National University of Singapore, Bachelors of Soc Sci w/ Hons in Psychology 
 College of Allied Educators, Post-graduate diploma in Counseling Psychology
 
